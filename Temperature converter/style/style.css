@@ -1,0 +1,27 @@
+body{
+  background-color: #e5e5f7;
+}
+
+
+#convert:hover{
+  background-color: #bcc768;
+}
+h1{
+  margin-top: 10%;
+  font-family: sans-serif;
+  color: black;
+}
+input{
+  display: block;
+  padding: 20px;
+  margin: 20px;
+  margin-top: 10px;
+  font-size: 1em;
+  color: #131212;
+}
+::-webkit-input-placeholder{
+  color: #ccc;
+}
+::-ms-input-placeholder{
+  color: #ccc;
+}
